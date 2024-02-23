@@ -1,7 +1,5 @@
 
-
-![logo](https://github.com/BCVI/Taller-Virtual-Bioinformatica-Genomica-Viral/assets/160988540/fe79a764-a63e-4422-acb3-8e4e3d3567f1)
-
+![LOGOS](https://github.com/BCVI/Taller-Virtual-Bioinformatica-Genomica-Viral/assets/160988540/92a716bc-0c55-4033-ac89-8f59b898ae76)
 
 ## Taller Virtual: Bioinformática en Genómica Viral
 
