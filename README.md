@@ -5,7 +5,7 @@
 
 Este repositorio se centra en la capacitación práctica en análisis de secuencia del genoma viral, principios científicos, análisis e interpretación de datos genómicos de secuenciación a gran escala.
 
-## Infraestructura computacional del curso  
+# Infraestructura computacional del curso  
 
 Este curso se desarrollará por medio de un servidor privado y usando [Google Colab](https://colab.research.google.com/), un servicio de acceso libre.
 
