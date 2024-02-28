@@ -29,7 +29,7 @@ El programa cubrirá los siguientes temas generales:
 ## Equipo de instructores
 
 - [Paola Rojas-Estevez](https://www.researchgate.net/profile/Paola-Rojas-Estevez), [Instituto Nacional de Salud](https://www.ins.gov.co/Paginas/Inicio.aspx), Bogotá - Colombia.
-- [Laura Camelo-Valera](https://qcbs.ca/student-member/?student=3056), [Universidad de McGill, Canadá](https://qcbs.ca/), Quebec - Canadá.
+- [Laura Camelo-Valera](https://qcbs.ca/student-member/?student=3056), [Universidad de McGill, Canadá](http://www.mauricelab.ca/), Montréal - Canadá.
 - [Dafne Arellano Maciel](https://www.researchgate.net/profile/Dafne-Arellano-Maciel), [Centro de Investigación en Dinámica Celular-UAEM](http://www.cidc.uaem.mx/), Cuernavaca - México.
 - [Juan Manuel Hurtado Ramirez](https://www.researchgate.net/profile/Juan-Hurtado-Ramirez), [Instituto de Biotecnología-UNAM](https://www.ibt.unam.mx/), Cuernavaca - México.
 - [Gamaliel López-Leal](https://www.researchgate.net/profile/Gamaliel-Lopez-Leal), [Centro de Investigación en Dinámica Celular-UAEM](http://www.cidc.uaem.mx/gamaliel-lopez/), Cuernavaca - México.
