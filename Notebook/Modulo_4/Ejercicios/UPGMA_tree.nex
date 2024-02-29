@@ -1,0 +1,37 @@
+#NEXUS
+[R-package APE, Thu Feb 29 07:22:15 2024]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 12;
+	TAXLABELS
+		gi|974311447|gb|CP008863.1|||4_partial_1
+		gi|974311447|gb|CP008863.1|||0_partial_1
+		vB_Pae_CF23a
+		gi|974311447|gb|CP008863.1|||7_partial_1
+		NODE_1_length_45777_cov_13.517722_cutoff_5_type_linears||full
+		MK340941.1
+		NODE_1_length_50744_cov_41.096509_cutoff_0_type_circular||full
+		gi|974311447|gb|CP008863.1|||5_partial_1
+		gi|974311447|gb|CP008863.1|||1_partial_1
+		gi|974311447|gb|CP008863.1|||3_partial_1
+		gi|974311447|gb|CP008863.1|||2_partial_1
+		gi|974311447|gb|CP008863.1|||6_partial_1
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	gi|974311447|gb|CP008863.1|||4_partial_1,
+		2	gi|974311447|gb|CP008863.1|||0_partial_1,
+		3	vB_Pae_CF23a,
+		4	gi|974311447|gb|CP008863.1|||7_partial_1,
+		5	NODE_1_length_45777_cov_13.517722_cutoff_5_type_linears||full,
+		6	MK340941.1,
+		7	NODE_1_length_50744_cov_41.096509_cutoff_0_type_circular||full,
+		8	gi|974311447|gb|CP008863.1|||5_partial_1,
+		9	gi|974311447|gb|CP008863.1|||1_partial_1,
+		10	gi|974311447|gb|CP008863.1|||3_partial_1,
+		11	gi|974311447|gb|CP008863.1|||2_partial_1,
+		12	gi|974311447|gb|CP008863.1|||6_partial_1
+	;
+	TREE * UNTITLED = [&R] (4:0.4999331818,((5:0.486525,(6:0.48033,7:0.48033):0.006195):0.01334416667,(8:0.498955,((11:0.4236366667,(12:0.335695,(9:0.15695,10:0.15695):0.178745):0.08794166667):0.07490541667,(1:0.4932725,(2:0.24126,3:0.24126):0.2520125):0.005269583333):0.0004129166667):0.0009141666667):6.401515152e-05);
+END;
