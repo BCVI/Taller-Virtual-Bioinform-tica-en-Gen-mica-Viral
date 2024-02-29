@@ -16,7 +16,7 @@ cd $HOME
 #crear directorio para modulo 4
 mkdir dia4_clustering_taxonomia
 #copiar los contifs en el nuevo directorio
-cp /home/gama/Final_Viral_Contigs/viral_sequences.fna $HOME/dia4_clustering_taxonomia
+cp /home/gama/Workshop_2024/Final_Viral_Contigs/viral_sequences.fna $HOME/dia4_clustering_taxonomia
 ```
 
 Para correr VIRIDIC en el servidor, se necesita como entrada las secuencias fasta en un solo archivo (igual que en el servidor web).
