@@ -1,4 +1,4 @@
-# Ejercicio comparacion de genomas a nivel de nucleotidos
+# Ejercicio comparacion de genomas
 
 ## Objetivo
 - Familiarizarse con el programa VIRIDIC desde el servidor web
