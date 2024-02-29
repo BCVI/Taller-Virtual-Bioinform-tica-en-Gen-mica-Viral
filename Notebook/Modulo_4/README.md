@@ -1,14 +1,14 @@
-# Módulo 2: día 2 Ensamblaje de Genomas Virales
+# Módulo 4: día 4 Clustering y Clasificación Taxónomica
 
-Este módulo se centrará en la ejecución de EPI2ME para la reconstrucción del genoma de SARS-CoV-2.
-El módulo se divide en dos partes: 
+El módulo se divide en tres partes: 
 
- - Parte 1: Evaluación de Calidad de long reads por Nanopore
- - Parte 2: Reconstrucción de genoma ejecutando pipeline de EPI2ME.
- - 
+ - Parte 1: Teoría
+ - Parte 2: Clustering y Taxonomía en herramientas web: genoma y proteoma.
+ - Parte 3: Hands-on línea de comandos.
+   
 ## Como empezar  
 
-Este módulo se desarrollará por medio de un servidor de acceso libre usando Google Colab Para comenzar, vaya a: 
+Este módulo se desarrollará por medio de un servidores de acceso libre y la línea de comandos. Para comenzar, vaya a: 
 
                https://colab.research.google.com/
 - Seleccione GitHub
