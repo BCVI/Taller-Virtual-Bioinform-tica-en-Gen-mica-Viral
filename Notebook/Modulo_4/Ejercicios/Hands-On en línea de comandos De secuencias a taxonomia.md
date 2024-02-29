@@ -127,6 +127,9 @@ cd $HOME/PhaGCN_newICTV
 python /App/PhaGCN_newICTV/run_Speed_up.py --contigs /home/came/dia4_clustering_taxonomia/viral_sequences.fna --len 8000
 
 #En el directorio out, se encuentra la salida 
-ls $HOME/PhaGCN_newICTV/out 
+ls $HOME/PhaGCN_newICTV/out
+
+#en este archivo pueden ver cada contig qué asignación taxonomica tiene 
+cat /home/came/PhaGCN_newICTV/pred/contig_0.csv
 ```
 
